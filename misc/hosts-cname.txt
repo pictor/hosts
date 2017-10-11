@@ -1405,6 +1405,50 @@ p6.staticflickr.com	ct2.gycs.b.yahoodns.net.
 p7.staticflickr.com	ct2.gycs.b.yahoodns.net.
 p8.staticflickr.com	ct2.gycs.b.yahoodns.net.
 
+# GitHub
+github.com	github.com.
+www.github.com	github.com.
+api.github.com	-
+assets-cdn.github.com	github.map.fastly.net.
+bounty.github.com	github.map.fastly.net.
+codeload.github.com	codeload.github.com.
+collector-cdn.github.com	github.map.fastly.net.
+desktop.github.com	github.map.fastly.net.
+developer.github.com	github.map.fastly.net.
+diversity.github.com	github.github.io.
+gist.github.com	-
+gist-assets.github.com	github.map.fastly.net.
+git-lfs.github.com	github.map.fastly.net.
+guides.github.com	github.map.fastly.net.
+help.github.com	github.map.fastly.net.
+hubot.github.com	github.map.fastly.net.
+live.github.com	-
+nodeload.github.com	codeload.github.com.
+pages.github.com	github.map.fastly.net.
+raw.github.com	github.map.fastly.net.
+status.github.com	octostatus-production.github.com.
+visualstudio.github.com	d2zzsuqtw0ulwe.cloudfront.net.
+avatars.githubusercontent.com	github.map.fastly.net.
+avatars0.githubusercontent.com	github.map.fastly.net.
+avatars1.githubusercontent.com	github.map.fastly.net.
+avatars2.githubusercontent.com	github.map.fastly.net.
+avatars3.githubusercontent.com	github.map.fastly.net.
+avatars4.githubusercontent.com	github.map.fastly.net.
+avatars5.githubusercontent.com	github.map.fastly.net.
+avatars6.githubusercontent.com	github.map.fastly.net.
+avatars7.githubusercontent.com	github.map.fastly.net.
+camo.githubusercontent.com	github.map.fastly.net.
+cloud.githubusercontent.com	github.map.fastly.net.
+desktop.githubusercontent.com	github.map.fastly.net.
+embed.githubusercontent.com	render.githubusercontent.com.
+favicons.githubusercontent.com	github.map.fastly.net.
+gist.githubusercontent.com	github.map.fastly.net.
+media.githubusercontent.com	github.map.fastly.net.
+patch-diff.githubusercontent.com	github.com.
+raw.githubusercontent.com	github.map.fastly.net.
+render.githubusercontent.com	render-githubusercontent-2047399272.us-east-1.elb.amazonaws.com.
+user-images.githubusercontent.com	github.map.fastly.net.
+
 # Instagram
 instagram.com	instagram.c10r.facebook.com.	-
 www.instagram.com	instagram.c10r.facebook.com.	-
