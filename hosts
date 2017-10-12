@@ -1,7 +1,7 @@
 # This hosts file is available at:
 # https://github.com/pictor/hosts
 #
-# Updated: 2017-10-11
+# Updated: 2017-10-12
 #
 # This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License:
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -3099,6 +3099,14 @@
 104.115.213.60	s-passets-cache-ak1.pinimg.com
 104.115.213.60	s-passets-ec.pinimg.com
 104.115.213.60	v.pinimg.com
+
+# Psiphon
+104.20.38.14	psiphon.ca
+104.20.38.14	www.psiphon.ca
+104.20.41.183	blog-en.psiphon.ca
+104.20.41.183	blog-zh.psiphon.ca
+52.84.193.159	psiphon3.com
+52.84.193.159	www.psiphon3.com
 
 # SlideShare
 144.2.3.10	slideshare.net
