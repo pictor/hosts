@@ -1,7 +1,7 @@
 # This hosts file is available at:
 # https://github.com/pictor/hosts
 #
-# Updated: 2017-10-14
+# Updated: 2017-10-17
 #
 # This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License:
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -20,6 +20,8 @@
 # Archive
 207.241.224.22	archive.org
 207.241.224.22	www.archive.org
+207.241.224.33	blog.archive.org
+207.241.225.186	wayback.archive.org
 207.241.225.186	web.archive.org
 207.241.225.186	web-beta.archive.org
 
