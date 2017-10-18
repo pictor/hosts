@@ -1496,8 +1496,8 @@
 31.13.82.52	logger.instagram.com
 31.13.82.52	maps.instagram.com
 31.13.82.52	platform.instagram.com
-157.240.11.52	external.cdninstagram.com
-157.240.11.52	scontent.cdninstagram.com
+157.240.7.52	external.cdninstagram.com
+157.240.7.52	scontent.cdninstagram.com
 157.240.1.52	scontent-ams.cdninstagram.com
 157.240.1.52	scontent-ams3-1.cdninstagram.com
 157.240.1.52	scontent-amt.cdninstagram.com
@@ -1591,7 +1591,7 @@
 157.240.1.52	scontent-waw1-1.cdninstagram.com
 157.240.1.52	scontent-yyz.cdninstagram.com
 157.240.1.52	scontent-yyz1-1.cdninstagram.com
-157.240.11.52	scontent-a.cdninstagram.com
+157.240.7.52	scontent-a.cdninstagram.com
 157.240.1.52	scontent-a-ams.cdninstagram.com
 157.240.1.52	scontent-a-ams3-1.cdninstagram.com
 157.240.1.52	scontent-a-amt.cdninstagram.com
@@ -1685,7 +1685,7 @@
 157.240.1.52	scontent-a-waw1-1.cdninstagram.com
 157.240.1.52	scontent-a-yyz.cdninstagram.com
 157.240.1.52	scontent-a-yyz1-1.cdninstagram.com
-157.240.11.52	scontent-b.cdninstagram.com
+157.240.7.52	scontent-b.cdninstagram.com
 157.240.1.52	scontent-b-ams.cdninstagram.com
 157.240.1.52	scontent-b-ams3-1.cdninstagram.com
 157.240.1.52	scontent-b-amt.cdninstagram.com
@@ -1779,7 +1779,7 @@
 157.240.1.52	scontent-b-waw1-1.cdninstagram.com
 157.240.1.52	scontent-b-yyz.cdninstagram.com
 157.240.1.52	scontent-b-yyz1-1.cdninstagram.com
-157.240.11.52	static.cdninstagram.com
+157.240.7.52	static.cdninstagram.com
 139.175.87.16	igcdnhdsvideo-vh.akamaihd.net
 42.99.128.139	igcdn-photos-a-a.akamaihd.net
 42.99.128.139	igcdn-photos-b-a.akamaihd.net
