@@ -9,6 +9,23 @@
 127.0.0.1	localhost
 ::1	localhost
 
+# 9Apps
+165.254.223.129	9apps.com
+165.254.223.129	www.9apps.com
+8.37.228.19	api.9apps.com
+165.254.223.129	msg.api.9apps.com
+165.254.223.129	open.api.9apps.com
+8.37.228.19	api2.9apps.com
+8.37.228.19	business.9apps.com
+8.37.229.141	dashboard.9apps.com
+8.37.229.141	down.9apps.com
+8.37.228.18	uunion.down.9apps.com
+165.254.223.129	lite.9apps.com
+8.37.228.19	portal.9apps.com
+8.37.228.19	share.9apps.com
+165.254.223.129	trends.9apps.com
+8.37.228.20	wap.9apps.com
+
 # Akamai
 23.194.201.170	a248.e.akamai.net
 
@@ -16,6 +33,23 @@
 54.239.38.117	eu-west-1.console.aws.amazon.com
 52.219.4.24	s3-ap-northeast-1.amazonaws.com
 52.95.132.17	s3-ap-southeast-2.amazonaws.com
+
+# APKMirror
+104.19.135.58	apkmirror.com
+104.19.135.58	www.apkmirror.com
+104.19.135.58	cdn.apkmirror.com
+104.19.135.58	dev.apkmirror.com
+
+# APKPure
+104.23.102.175	apkpure.com
+104.23.102.175	www.apkpure.com
+104.23.102.175	a.apkpure.com
+104.23.102.175	download.apkpure.com
+104.23.102.175	i.apkpure.com
+104.23.102.175	m.apkpure.com
+104.23.102.175	s.apkpure.com
+104.23.102.175	static.apkpure.com
+104.23.102.175	translate.apkpure.com
 
 # Archive
 207.241.224.22	archive.org
