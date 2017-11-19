@@ -1,7 +1,7 @@
 # This hosts file is available at:
 # https://github.com/pictor/hosts
 #
-# Updated: 2017-11-14
+# Updated: 2017-11-19
 #
 # This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License:
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -743,12 +743,12 @@
 151.101.88.133	user-images.githubusercontent.com
 
 # Google
-108.177.97.16	imap.googlemail.com
-108.177.97.16	pop.googlemail.com
-108.177.97.16	smtp.googlemail.com
-108.177.97.108	imap.gmail.com
-108.177.97.108	pop.gmail.com
-108.177.97.108	smtp.gmail.com
+108.177.98.16	imap.googlemail.com
+108.177.98.16	pop.googlemail.com
+108.177.98.16	smtp.googlemail.com
+108.177.98.108	imap.gmail.com
+108.177.98.108	pop.gmail.com
+108.177.98.108	smtp.gmail.com
 
 # Heroku
 52.1.240.62	id.heroku.com
