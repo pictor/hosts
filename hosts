@@ -1,7 +1,7 @@
 # This hosts file is available at:
 # https://github.com/pictor/hosts
 #
-# Updated: 2017-11-25
+# Updated: 2017-12-05
 #
 # This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License:
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -3105,9 +3105,9 @@
 202.43.194.205	mlogin.yahoo.com
 180.222.100.23	hk.mobi.yahoo.com
 180.222.100.23	tw.mobi.yahoo.com
-106.10.160.45	news.yahoo.com
+#98.138.79.55	news.yahoo.com
 180.222.100.23	hk.news.yahoo.com
-106.10.160.45	rss.news.yahoo.com
+#98.138.79.55	rss.news.yahoo.com
 #180.222.100.23	sg.news.yahoo.com
 180.222.100.23	tw.news.yahoo.com
 124.108.101.31	policies.yahoo.com
@@ -3143,8 +3143,8 @@
 #180.222.100.22	hk.rd.yahoo.com
 #106.10.212.150	sg.rd.yahoo.com
 #180.222.100.22	tw.rd.yahoo.com
-106.10.160.45	screen.yahoo.com
-106.10.160.45	beta.screen.yahoo.com
+#98.138.79.55	screen.yahoo.com
+#98.138.79.55	beta.screen.yahoo.com
 #180.222.100.23	hk.screen.yahoo.com
 #180.222.100.23	sg.screen.yahoo.com
 #180.222.100.23	tw.screen.yahoo.com
@@ -3224,7 +3224,7 @@
 106.10.231.14	mtk-mobile.query.yahooapis.com
 #106.10.136.49	samsung-mobile.query.yahooapis.com
 124.108.101.57	social.yahooapis.com
-106.10.160.45	upcoming.yahooapis.com
+#98.138.79.55	upcoming.yahooapis.com
 #124.108.101.57	webplayer.yahooapis.com
 27.123.200.67	yboss.yahooapis.com
 #106.10.136.49	yql.yahooapis.com
