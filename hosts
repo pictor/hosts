@@ -1,7 +1,7 @@
 # This hosts file is available at:
 # https://github.com/pictor/hosts
 #
-# Updated: 2017-12-05
+# Updated: 2017-12-27
 #
 # This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License:
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -2870,9 +2870,9 @@
 124.108.101.57	address.yahoo.com
 116.214.15.80	carddav.address.yahoo.com
 202.43.194.205	c5.ah.yahoo.com
-203.84.197.27	answers.yahoo.com
-203.84.197.27	hk.answers.yahoo.com
-203.84.197.27	tw.answers.yahoo.com
+119.161.10.100	answers.yahoo.com
+119.161.10.100	hk.answers.yahoo.com
+119.161.10.100	tw.answers.yahoo.com
 124.108.101.10	beap-bc.yahoo.com
 116.214.10.132	tw.analytics.bid.yahoo.com
 116.214.10.132	tw.api.bid.yahoo.com
@@ -2912,13 +2912,13 @@
 202.43.194.205	na.edit.yahoo.com
 202.43.194.205	sa.edit.yahoo.com
 124.108.112.9	log.fc.yahoo.com
-203.84.197.27	finance.yahoo.com
+119.161.10.100	finance.yahoo.com
 106.10.170.39	api.finance.yahoo.com
 #180.222.100.23	autoc.finance.yahoo.com
-203.84.197.27	beta.finance.yahoo.com
-203.84.197.27	download.finance.yahoo.com
+119.161.10.100	beta.finance.yahoo.com
+119.161.10.100	download.finance.yahoo.com
 #106.10.160.48	feeds.finance.yahoo.com
-203.84.197.27	hk.finance.yahoo.com
+119.161.10.100	hk.finance.yahoo.com
 #106.10.160.48	iquery.finance.yahoo.com
 106.10.231.14	l1-query.finance.yahoo.com
 106.10.231.14	l2-query.finance.yahoo.com
@@ -2927,10 +2927,10 @@
 106.10.231.14	l5-query.finance.yahoo.com
 106.10.231.14	mobile-query.finance.yahoo.com
 #106.10.160.48	partner-query.finance.yahoo.com
-203.84.197.27	query1.finance.yahoo.com
-203.84.197.27	query2.finance.yahoo.com
-203.84.197.27	screen.finance.yahoo.com
-203.84.197.27	screener.finance.yahoo.com
+119.161.10.100	query1.finance.yahoo.com
+119.161.10.100	query2.finance.yahoo.com
+119.161.10.100	screen.finance.yahoo.com
+119.161.10.100	screener.finance.yahoo.com
 #208.71.45.95	s-streamerapi.finance.yahoo.com
 #208.71.45.95	streamerapi.finance.yahoo.com
 180.222.100.22	tw.finance.yahoo.com
@@ -3177,7 +3177,7 @@
 124.108.101.57	udc.yahoo.com
 #106.10.212.150	upcoming.yahoo.com
 #98.136.240.96	m.upcoming.yahoo.com
-203.84.197.27	video.yahoo.com
+119.161.10.100	video.yahoo.com
 124.108.101.10	bats.video.yahoo.com
 124.108.101.57	guide.video.yahoo.com
 #180.222.100.22	hk.video.yahoo.com
@@ -3206,7 +3206,7 @@
 #106.10.136.49	video-api-internal.yql.yahoo.com
 124.108.112.60	order.yahoo.com.tw
 119.160.242.137	m.order.yahoo.com.tw
-203.84.197.27	answers.yahooapis.com
+119.161.10.100	answers.yahooapis.com
 116.214.10.132	tw.bid.yahooapis.com
 #124.108.101.57	bp.yahooapis.com
 #124.108.101.57	cdn.yahooapis.com
