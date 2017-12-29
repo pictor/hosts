@@ -1,7 +1,7 @@
 # This hosts file is available at:
 # https://github.com/pictor/hosts
 #
-# Updated: 2017-12-27
+# Updated: 2017-12-29
 #
 # This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License:
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -2856,6 +2856,7 @@
 
 # Wikipedia
 198.35.26.96	zh.wikinews.org
+198.35.26.96	ja.wikipedia.org
 198.35.26.96	zh.m.wikipedia.org
 198.35.26.96	wuu.wikipedia.org
 198.35.26.96	zh.wikipedia.org
