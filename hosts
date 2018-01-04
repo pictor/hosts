@@ -1,7 +1,7 @@
 # This hosts file is available at:
 # https://github.com/pictor/hosts
 #
-# Updated: 2017-12-29
+# Updated: 2018-01-05
 #
 # This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License:
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -702,45 +702,45 @@
 #192.30.255.113	github.com
 #192.30.255.113	www.github.com
 #192.30.255.116	api.github.com
-151.101.88.133	assets-cdn.github.com
-151.101.88.133	bounty.github.com
+151.101.0.133	assets-cdn.github.com
+151.101.0.133	bounty.github.com
 #192.30.255.121	codeload.github.com
-151.101.88.133	collector-cdn.github.com
-151.101.88.133	desktop.github.com
-151.101.88.133	developer.github.com
+151.101.0.133	collector-cdn.github.com
+151.101.0.133	desktop.github.com
+151.101.0.133	developer.github.com
 151.101.77.147	diversity.github.com
 192.30.253.119	gist.github.com
-151.101.88.133	gist-assets.github.com
-151.101.88.133	git-lfs.github.com
-151.101.88.133	guides.github.com
-151.101.88.133	help.github.com
-151.101.88.133	hubot.github.com
+151.101.0.133	gist-assets.github.com
+151.101.0.133	git-lfs.github.com
+151.101.0.133	guides.github.com
+151.101.0.133	help.github.com
+151.101.0.133	hubot.github.com
 #192.30.253.125	live.github.com
 #192.30.255.121	nodeload.github.com
-151.101.88.133	pages.github.com
-151.101.88.133	raw.github.com
+151.101.0.133	pages.github.com
+151.101.0.133	raw.github.com
 #107.22.242.220	status.github.com
 #52.222.205.164	visualstudio.github.com
-151.101.88.133	avatars.githubusercontent.com
-151.101.88.133	avatars0.githubusercontent.com
-151.101.88.133	avatars1.githubusercontent.com
-151.101.88.133	avatars2.githubusercontent.com
-151.101.88.133	avatars3.githubusercontent.com
-151.101.88.133	avatars4.githubusercontent.com
-151.101.88.133	avatars5.githubusercontent.com
-151.101.88.133	avatars6.githubusercontent.com
-151.101.88.133	avatars7.githubusercontent.com
-151.101.88.133	camo.githubusercontent.com
-151.101.88.133	cloud.githubusercontent.com
-151.101.88.133	desktop.githubusercontent.com
+151.101.0.133	avatars.githubusercontent.com
+151.101.0.133	avatars0.githubusercontent.com
+151.101.0.133	avatars1.githubusercontent.com
+151.101.0.133	avatars2.githubusercontent.com
+151.101.0.133	avatars3.githubusercontent.com
+151.101.0.133	avatars4.githubusercontent.com
+151.101.0.133	avatars5.githubusercontent.com
+151.101.0.133	avatars6.githubusercontent.com
+151.101.0.133	avatars7.githubusercontent.com
+151.101.0.133	camo.githubusercontent.com
+151.101.0.133	cloud.githubusercontent.com
+151.101.0.133	desktop.githubusercontent.com
 #23.23.118.236	embed.githubusercontent.com
-151.101.88.133	favicons.githubusercontent.com
-151.101.88.133	gist.githubusercontent.com
-151.101.88.133	media.githubusercontent.com
+151.101.0.133	favicons.githubusercontent.com
+151.101.0.133	gist.githubusercontent.com
+151.101.0.133	media.githubusercontent.com
 #192.30.255.112	patch-diff.githubusercontent.com
-151.101.88.133	raw.githubusercontent.com
+151.101.0.133	raw.githubusercontent.com
 #50.16.233.204	render.githubusercontent.com
-151.101.88.133	user-images.githubusercontent.com
+151.101.0.133	user-images.githubusercontent.com
 
 # Google
 108.177.98.16	imap.googlemail.com
