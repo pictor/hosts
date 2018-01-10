@@ -1,30 +1,13 @@
 # This hosts file is available at:
 # https://github.com/pictor/hosts
 #
-# Updated: 2018-01-05
+# Updated: 2018-01-10
 #
 # This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License:
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 127.0.0.1	localhost
 ::1	localhost
-
-# 9Apps
-165.254.223.129	9apps.com
-165.254.223.129	www.9apps.com
-8.37.228.19	api.9apps.com
-165.254.223.129	msg.api.9apps.com
-165.254.223.129	open.api.9apps.com
-8.37.228.19	api2.9apps.com
-8.37.228.19	business.9apps.com
-8.37.229.141	dashboard.9apps.com
-8.37.229.141	down.9apps.com
-8.37.228.18	uunion.down.9apps.com
-165.254.223.129	lite.9apps.com
-8.37.228.19	portal.9apps.com
-8.37.228.19	share.9apps.com
-165.254.223.129	trends.9apps.com
-8.37.228.20	wap.9apps.com
 
 # Akamai
 23.194.201.170	a248.e.akamai.net
