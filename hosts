@@ -2838,8 +2838,8 @@
 192.229.133.221	tryit.w3schools.com
 
 # WhatsApp
-31.13.82.51	whatsapp.com
-31.13.82.51	www.whatsapp.com
+157.240.22.53	whatsapp.com
+157.240.22.53	www.whatsapp.com
 #169.44.82.120	account.whatsapp.com
 #192.155.212.203	alpha.whatsapp.com
 #169.44.82.120	api.whatsapp.com
@@ -2849,7 +2849,7 @@
 #192.155.212.203	blog.whatsapp.com
 #169.44.82.120	chat.whatsapp.com
 173.192.219.153	dev-web.whatsapp.com
-31.13.82.51	faq.whatsapp.com
+157.240.22.53	faq.whatsapp.com
 #192.155.212.203	gamma.whatsapp.com
 #192.155.212.203	m.whatsapp.com
 #192.155.212.203	media.whatsapp.com
@@ -2857,7 +2857,7 @@
 174.36.251.208	translate-dev.whatsapp.com
 #192.155.212.203	v.whatsapp.com
 #192.155.212.203	w0.whatsapp.com
-31.13.82.51	web.whatsapp.com
+157.240.22.53	web.whatsapp.com
 #169.44.82.120	dyn.web.whatsapp.com
 #169.44.85.94	up.web.whatsapp.com
 #169.44.82.120	w1.web.whatsapp.com
@@ -2875,9 +2875,9 @@
 169.45.182.115	c2.whatsapp.net
 169.45.182.115	c3.whatsapp.net
 157.240.17.53	www.cdn.whatsapp.net
-31.13.82.51	mmx-ds.cdn.whatsapp.net
-31.13.82.51	mmx-fb.cdn.whatsapp.net
-31.13.82.51	crashlogs.whatsapp.net
+157.240.22.53	mmx-ds.cdn.whatsapp.net
+157.240.22.53	mmx-fb.cdn.whatsapp.net
+157.240.22.53	crashlogs.whatsapp.net
 169.60.79.21	e1.whatsapp.net
 169.60.79.21	e2.whatsapp.net
 169.60.79.21	e3.whatsapp.net
@@ -2894,9 +2894,9 @@
 169.60.79.21	e14.whatsapp.net
 169.60.79.21	e15.whatsapp.net
 169.60.79.21	e16.whatsapp.net
-31.13.82.51	mme.whatsapp.net
-31.13.82.51	mmg.whatsapp.net
-31.13.82.51	mmg-fna.whatsapp.net
+157.240.22.53	mme.whatsapp.net
+157.240.22.53	mmg.whatsapp.net
+157.240.22.53	mmg-fna.whatsapp.net
 169.45.71.114	mmi241.whatsapp.net
 169.45.71.109	mmi242.whatsapp.net
 169.45.71.104	mmi243.whatsapp.net
@@ -3210,10 +3210,10 @@
 198.23.80.19	mmi751.whatsapp.net
 169.55.69.176	mms.whatsapp.net
 173.192.219.135	p.whatsapp.net
-31.13.82.51	pps.whatsapp.net
-31.13.82.51	static.whatsapp.net
+157.240.22.53	pps.whatsapp.net
+157.240.22.53	static.whatsapp.net
 169.47.5.221	v.whatsapp.net
-31.13.82.51	www-cdn.whatsapp.net
+157.240.22.53	www-cdn.whatsapp.net
 
 # Wikipedia
 198.35.26.96	zh.wikinews.org
