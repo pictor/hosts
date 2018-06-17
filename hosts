@@ -49,6 +49,9 @@
 207.241.225.186	web.archive.org
 207.241.225.186	web-beta.archive.org
 
+# Azure CDN
+117.18.232.200	endpoint920510.azureedge.net
+
 # Box
 107.152.25.198	app.box.com
 107.152.25.197	m.box.com
