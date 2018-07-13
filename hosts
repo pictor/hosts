@@ -1,7 +1,7 @@
 # This hosts file is available at:
 # https://github.com/pictor/hosts
 #
-# Updated: 2018-06-17
+# Updated: 2018-07-13
 #
 # This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License:
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -431,20 +431,21 @@
 46.51.218.82	duckduckgo.com
 46.51.218.82	www.duckduckgo.com
 46.51.218.82	ac.duckduckgo.com
-52.74.20.152	api.duckduckgo.com
-52.74.20.152	chrome.duckduckgo.com
-52.74.20.152	ff.duckduckgo.com
-96.45.83.40	help.duckduckgo.com
+50.18.200.100	api.duckduckgo.com
+50.18.200.100	chrome.duckduckgo.com
+50.18.200.100	ff.duckduckgo.com
+46.51.218.82	help.duckduckgo.com
 46.51.218.82	i.duckduckgo.com
-52.77.181.198	icons.duckduckgo.com
-52.77.181.198	images.duckduckgo.com
+52.74.174.169	icons.duckduckgo.com
+46.51.218.82	images.duckduckgo.com
 46.51.218.82	karma.duckduckgo.com
 46.51.218.82	news.duckduckgo.com
 46.51.218.82	next.duckduckgo.com
+52.74.174.169	proxy.duckduckgo.com
 46.51.218.82	r.duckduckgo.com
 46.51.218.82	safe.duckduckgo.com
 46.51.218.82	start.duckduckgo.com
-96.45.83.40	support.duckduckgo.com
+46.51.218.82	support.duckduckgo.com
 46.51.218.82	watrcoolr.duckduckgo.com
 46.51.218.82	duckduckgo-owned-server.yahoo.net
 
