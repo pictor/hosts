@@ -384,11 +384,12 @@ chrome.duckduckgo.com	ff.duckduckgo.com.
 ff.duckduckgo.com	ff.duckduckgo.com.
 help.duckduckgo.com	www.duckduckgo.com.
 i.duckduckgo.com	www.duckduckgo.com.
-icons.duckduckgo.com	
+icons.duckduckgo.com	icons.duckduckgo.com.
 images.duckduckgo.com	www.duckduckgo.com.
 karma.duckduckgo.com	www.duckduckgo.com.
 news.duckduckgo.com	www.duckduckgo.com.
 next.duckduckgo.com	www.duckduckgo.com.
+proxy.duckduckgo.com	icons.duckduckgo.com.
 r.duckduckgo.com	www.duckduckgo.com.
 safe.duckduckgo.com	www.duckduckgo.com.
 start.duckduckgo.com	www.duckduckgo.com.
